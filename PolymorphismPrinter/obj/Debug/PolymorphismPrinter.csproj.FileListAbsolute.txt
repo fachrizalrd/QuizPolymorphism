@@ -1,0 +1,7 @@
+D:\18.11.2248\PolymorphismPrinter\PolymorphismPrinter\bin\Debug\PolymorphismPrinter.exe.config
+D:\18.11.2248\PolymorphismPrinter\PolymorphismPrinter\bin\Debug\PolymorphismPrinter.exe
+D:\18.11.2248\PolymorphismPrinter\PolymorphismPrinter\bin\Debug\PolymorphismPrinter.pdb
+D:\18.11.2248\PolymorphismPrinter\PolymorphismPrinter\obj\Debug\PolymorphismPrinter.csprojAssemblyReference.cache
+D:\18.11.2248\PolymorphismPrinter\PolymorphismPrinter\obj\Debug\PolymorphismPrinter.csproj.CoreCompileInputs.cache
+D:\18.11.2248\PolymorphismPrinter\PolymorphismPrinter\obj\Debug\PolymorphismPrinter.exe
+D:\18.11.2248\PolymorphismPrinter\PolymorphismPrinter\obj\Debug\PolymorphismPrinter.pdb
